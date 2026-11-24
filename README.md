@@ -7,7 +7,7 @@
 
 ![Process Hook Inspector 화면](Screenshots/Process-Hook-Inspector.png)
 
-**Lite 버전**(`ProcHookInspectorLite.exe`)은, **언훅 기능이 빠진 검사 전용 버전**입니다.
+**Lite 버전**(`ProcHookInspectorLite.exe`)은 **언훅 기능이 빠진 검사 전용 버전**입니다.
 
 ## 다운로드
 
