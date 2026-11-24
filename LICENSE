@@ -1,0 +1,87 @@
+Process Hook Inspector 사용 허가 조건 (Freeware License)
+
+Copyright (c) 2026, Innotena. All rights reserved.
+
+이 소프트웨어(ProcHookInspectorLite.exe 실행 파일 및 함께 제공되는 문서)를 내려받거나 사용하면
+아래 조건에 동의한 것으로 봅니다.
+
+1. 사용 허가
+   개인, 기업, 기관 누구나 이 소프트웨어를 무료로 사용할 수 있습니다.
+   사용자 본인 또는 소속 조직의 컴퓨터에 설치하고 실행하기 위해 복사하는 것은 허용됩니다.
+
+2. 재배포 금지
+   이 소프트웨어를 다른 웹사이트, 파일 공유 서비스, 저장소, 배포 매체 등을 통해 제3자에게
+   다시 배포할 수 없습니다. 다른 사람과 공유하려면 공식 배포 페이지의 링크를 알려 주십시오.
+   공식 배포 페이지: https://github.com/mocojeju/Process-Hook-Inspector
+
+3. 금지 사항
+   - 소프트웨어를 수정, 역설계(리버스 엔지니어링), 디컴파일, 디스어셈블하는 행위
+   - 소프트웨어를 판매, 대여, 임대하거나 유료 제품·서비스에 포함하는 행위
+   - 저작권 표시와 디지털 서명을 제거하거나 변경하는 행위
+
+4. 제3자 구성요소
+   이 소프트웨어에는 아래 오픈소스 구성요소가 포함되어 있으며, 해당 구성요소는 이 문서가 아니라
+   각자의 라이선스(BSD-2-Clause)를 따릅니다. 위 3항의 금지 사항은 이 구성요소에 적용되지 않습니다.
+   라이선스 원문은 프로그램의 "정보" 창에서 볼 수 있습니다.
+   - PE-sieve   (https://github.com/hasherezade/pe-sieve)   Copyright (c) 2017-2025, @hasherezade
+   - libpeconv  (https://github.com/hasherezade/libpeconv)  Copyright (c) 2017-2022, hasherezade
+   - sig_finder (https://github.com/hasherezade/sig_finder) Copyright (c) 2024, hasherezade
+
+5. 보증의 부인
+   이 소프트웨어는 "있는 그대로(AS IS)" 제공되며, 상품성, 특정 목적에의 적합성, 권리 비침해를
+   포함한 어떠한 명시적·묵시적 보증도 하지 않습니다.
+
+6. 책임의 제한
+   저작권자는 이 소프트웨어의 사용 또는 사용 불능으로 발생한 어떠한 직접적·간접적·부수적·
+   결과적 손해(데이터 손실, 업무 중단 등을 포함)에 대해서도 책임지지 않습니다.
+
+7. 권리의 유보
+   이 문서에서 명시적으로 허가하지 않은 모든 권리는 저작권자에게 있습니다.
+
+-------------------------------------------------------------------------------
+
+Process Hook Inspector Freeware License
+
+Copyright (c) 2026, Innotena. All rights reserved.
+
+By downloading or using this software (the ProcHookInspectorLite executable and its
+accompanying documentation), you agree to the following terms.
+
+1. Permission to use
+   Anyone, including individuals, companies and organizations, may use this software
+   free of charge. You may copy it onto computers owned by you or your organization
+   for the purpose of installing and running it.
+
+2. No redistribution
+   You may not redistribute this software to third parties through other websites,
+   file sharing services, repositories, media or any other means. To share it,
+   please share a link to the official download page.
+   Official download page: https://github.com/mocojeju/Process-Hook-Inspector
+
+3. Restrictions
+   You may not:
+   - modify, reverse engineer, decompile or disassemble the software;
+   - sell, rent or lease the software, or include it in any paid product or service;
+   - remove or alter the copyright notice or the digital signature.
+
+4. Third-party components
+   This software includes the following open source components. They are governed by
+   their own licenses (BSD-2-Clause), not by this document, and the restrictions in
+   section 3 do not apply to them. Their full license texts are shown in the program's
+   "About" window.
+   - PE-sieve   (https://github.com/hasherezade/pe-sieve)   Copyright (c) 2017-2025, @hasherezade
+   - libpeconv  (https://github.com/hasherezade/libpeconv)  Copyright (c) 2017-2022, hasherezade
+   - sig_finder (https://github.com/hasherezade/sig_finder) Copyright (c) 2024, hasherezade
+
+5. Disclaimer of warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. Limitation of liability
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL
+   OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA OR BUSINESS INTERRUPTION) ARISING
+   FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+7. Reservation of rights
+   All rights not expressly granted in this document are reserved by the copyright holder.
